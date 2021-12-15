@@ -1,0 +1,9 @@
+Type		Overall_Type	Arrangement	Margin			Count
+I		Simple		Opposite	Entire		        5
+II		Compound	Alternate	Entire			12
+II		Simple		Opposite	Toothed			8
+I		Simple		Alternate	Toothed			12
+I		Compound	Opposite	Toothed			8
+II		Compound	Opposite	Entire			22
+I		Simple		Opposite	Toothed			25
+I		Compound	Alternate	Toothed			8	
